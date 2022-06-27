@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://jiulisino.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 19:17:01 +0800</lastBuildDate><atom:link href="https://jiulisino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyProblems</title>
+      <link>https://jiulisino.github.io/post/myproblems/</link>
+      <pubDate>Mon, 27 Jun 2022 19:17:01 +0800</pubDate>
+      
+      <guid>https://jiulisino.github.io/post/myproblems/</guid>
+      <description>jiulisino:
+遇到的问题：
+①环境变量配置错误 要把hugo的路径添加到PATH中。
+②SSH密钥没有创建 要先创建SSH密钥，才能将本地文件通过git上传到github。
+其他问题暂未发现。</description>
+    </item>
+    
+  </channel>
+</rss>
